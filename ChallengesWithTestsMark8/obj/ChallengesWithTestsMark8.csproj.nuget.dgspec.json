@@ -13,6 +13,9 @@
         "packagesPath": "/Users/joe/.nuget/packages/",
         "outputPath": "/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/joe/.config/NuGet/NuGet.Config"
         ],
